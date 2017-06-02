@@ -44,24 +44,6 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="https:\/\/gitlab.com\
 <meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
 <meta content="#30353E" name="msapplication-TileColor">
 
-
-<!-- Piwik -->
-<script>
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.gitlab.com/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript>&lt;p&gt;&lt;img src="//piwik.gitlab.com/piwik.php?idsite=1" style="border:0;" alt="" /&gt;&lt;/p&gt;</noscript>
-<!-- End Piwik Code -->
-
-
 </head>
 
 <body class="" data-group="" data-page="help:show" data-project="">
