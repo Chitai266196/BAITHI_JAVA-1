@@ -16,18 +16,18 @@ Ngày nay việc mua hàng online đã không còn xa lạ với mỗi người 
   - Từ màng hình chính có thể gọi thanh menu
   - Người mua hàng có thể chọn các sản phẩm trên màng hình chính, khi click vào lỗi sản phẩm ứng dụng sẽ hiển thị trang chi tiết sản phẩm.
 ##### 2. Màng hình Menu
-![Nhuyshop](https://lh5.googleusercontent.com/0fdgpwLu_BsPRs6Ya1T0-qpadla2W-mWO3Pu2tjcKRctFaiNsMzsAq-TbOzJBjdB6J4StYsALp32w6w=w1366-h648-rw)
+![Nhuyshop](https://lh5.googleusercontent.com/0fdgpwLu_BsPRs6Ya1T0-qpadla2W-mWO3Pu2tjcKRctFaiNsMzsAq-TbOzJBjdB6J4StYsALp32w6w=w1366-h648-rw?raw)
 ##### 3. Màng hình điện thoại
-![Nhuyshop](https://lh5.googleusercontent.com/P8cGovRansBldZY5jUd4m-kMN-fy4axJe3aGU5DCt0lLdNB81Te1Fy0hSDqVXSGhG6gDzMOFz-_JXcs=w1366-h648-rw)
+![Nhuyshop](https://lh5.googleusercontent.com/P8cGovRansBldZY5jUd4m-kMN-fy4axJe3aGU5DCt0lLdNB81Te1Fy0hSDqVXSGhG6gDzMOFz-_JXcs=w1366-h648-rw?raw)
 ##### 4. Màng hình laptop
-![Nhuyshop](https://lh5.googleusercontent.com/wLYIe4g24eerI5wfg-zoYrmLczqxlhEs_WXc1yW2EkK1f_8Gn6929GpPfvH02u57TnyFkkf7kG07qyU=w1366-h648-rw)
+![Nhuyshop](https://lh5.googleusercontent.com/wLYIe4g24eerI5wfg-zoYrmLczqxlhEs_WXc1yW2EkK1f_8Gn6929GpPfvH02u57TnyFkkf7kG07qyU=w1366-h648-rw?raw)
 ##### 5. Màng hình chi tiết sản phẩm
-![Nhuyshop](https://lh6.googleusercontent.com/KsXSlkLSxvM3KmyFJMS5Ur-OaeAk1-1J_kRUFSpqAAF2-Hmd35g9_hBK9chEgf0qj4rRC-XK4UEytdc=w1366-h648-rw)
+![Nhuyshop](https://lh6.googleusercontent.com/KsXSlkLSxvM3KmyFJMS5Ur-OaeAk1-1J_kRUFSpqAAF2-Hmd35g9_hBK9chEgf0qj4rRC-XK4UEytdc=w1366-h648-rw?raw)
 ##### 6. Màng hình giỏ hàng
-![Nhuyshop](https://lh6.googleusercontent.com/d6Ze-zWaarUJMiro1_muy9G8efDlMv2gNqsDZEWKsj7hyVo3MKULxkBDrBi_jVT41voJlllSq6mLTX4=w1366-h648-rw)
+![Nhuyshop](https://lh6.googleusercontent.com/d6Ze-zWaarUJMiro1_muy9G8efDlMv2gNqsDZEWKsj7hyVo3MKULxkBDrBi_jVT41voJlllSq6mLTX4=w1366-h648-rw?raw)
 ##### 7. Màng hình thông tin khách hàng
-![Nhuyshop](https://lh5.googleusercontent.com/Q794LUoAYENwsEpddjktPaXcKy5biKvQoOMI3cYIVjMtncf-V6n_E92qesvte_gOdA7EbGUS8wxSl2A=w1366-h648-rw)
+![Nhuyshop](https://lh5.googleusercontent.com/Q794LUoAYENwsEpddjktPaXcKy5biKvQoOMI3cYIVjMtncf-V6n_E92qesvte_gOdA7EbGUS8wxSl2A=w1366-h648-rw?raw)
 ##### 8. Màng hình thông tin
-![Nhuyshop](https://lh3.googleusercontent.com/nI2XNGQGYXXToWbGLZq7ebEnihQ5DgKmPN96o_LpjzlrLfyaUYUw1s7INMqMf1EGjnpcClfcfJK2WFQ=w1366-h648-rw)
+![Nhuyshop](https://lh3.googleusercontent.com/nI2XNGQGYXXToWbGLZq7ebEnihQ5DgKmPN96o_LpjzlrLfyaUYUw1s7INMqMf1EGjnpcClfcfJK2WFQ=w1366-h648-rw?raw)
 ##### 9. Màng hình liên hệ
-![Nhuyshop](https://lh5.googleusercontent.com/Q2q51LAwT3eEYe9Uwp7-KbT9VEbBzHA4zbl6P4Ry1Eg6PzKORAAcBzBjnzrjJicqSpM1tYNxMoPnzcc=w1366-h648-rw)
+![Nhuyshop](https://lh5.googleusercontent.com/Q2q51LAwT3eEYe9Uwp7-KbT9VEbBzHA4zbl6P4Ry1Eg6PzKORAAcBzBjnzrjJicqSpM1tYNxMoPnzcc=w1366-h648-rw?raw)
