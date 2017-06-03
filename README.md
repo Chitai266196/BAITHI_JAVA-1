@@ -3,6 +3,7 @@
 ### Mã số sv    : 56131778
 ### Lớp         : 56Th2
 ### Giáo viên hướng dẫn : Mai Cường Thọ
+### Trường Đại học Nha Trang
 ### _____________________________________________________
 # `Ứng dụng  Nhuyshop gồm có  giao diện và  chức năng như sau`
 Ngày nay việc mua hàng online đã không còn xa lạ với mỗi người chúng ta, bạn có thể đã mua hàng trên Lazada, Adayroi,... .  Và Nhuyshop là một hình thức bán hàng như vậy, nhưng với quy mô nhỏ hơn nhiều.
