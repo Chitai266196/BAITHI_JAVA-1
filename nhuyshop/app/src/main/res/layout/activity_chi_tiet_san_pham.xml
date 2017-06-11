@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.nguyennhuy.nhuyshop.activity.ChiTietSanPham">
+    <android.support.v7.widget.Toolbar
+        android:background="#b13c2b"
+        android:titleTextColor="#121212"
+        app:title="Chi tiết sản phẩm"
+        android:id="@+id/toolbarchitietsanpham"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">   
+        
+        <ImageView
+            android:id="@+id/imageviewhinhanhchitietsanpham"
+            android:src="@mipmap/ic_launcher"
+            android:layout_margin="10dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/textviewtenchitietsanpham"
+                    android:text="Tên sản phẩm"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:layout_margin="5dp"
+                    android:textSize="17sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp" />
+
+            <TextView
+                android:id="@+id/textviewgiachitietsanpham"
+                android:layout_margin="5dp"
+                android:textSize="15sp"
+                android:text="Giá sản phẩm"
+                android:textColor="#f20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <Spinner
+                android:background="@drawable/spinner"
+                android:layout_margin="3dp"
+                android:layout_marginTop="5dp"
+                android:foregroundGravity="center"
+                android:textAlignment="center"
+                android:id="@+id/spinnerchitietsanpham"
+                android:layout_width="match_parent"
+                android:layout_height="28dp"></Spinner>
+            <Button
+                android:id="@+id/buttondatmuachitietsanpham"
+                android:textColor="#ffffff"
+                android:text="Thêm vào giỏ hàng"
+                android:background="@drawable/setting_btndatmua"
+                android:textSize="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="32dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Mô tả chi tiết sản phẩm"
+            android:textColor="#77ae45"
+            android:textSize="30sp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textviewmotachitietsanpham"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:paddingBottom="10dp"
+                android:text="Đây là chi tiết sản phẩm"
+                android:textSize="20sp" />
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

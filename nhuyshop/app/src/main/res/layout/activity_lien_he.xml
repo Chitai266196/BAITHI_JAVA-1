@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarlienhe"
+        app:titleTextColor="#fafafa"
+        android:background="#64b354"
+        app:title="Liên hệ"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:orientation="vertical"
+        android:adjustViewBounds="true"
+        android:background="@drawable/hinhnen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textColor="#fafafa"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="Liên hệ với tôi"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:weightSum="3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_weight="1"
+                android:background="@drawable/setting_btndatmua"
+                android:layout_width="match_parent"
+                android:layout_margin="30dp"
+                android:layout_height="0dp"
+                android:gravity="center">
+                <TextView
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:textSize="15sp"
+                    android:drawableLeft="@drawable/person"
+                    android:text="  Họ tên : Nguyễn Như Ý"
+                    android:textColor="#fafafafa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:background="@drawable/setting_btndatmua"
+                android:layout_width="match_parent"
+                android:layout_margin="30dp"
+                android:layout_height="0dp"
+                android:gravity="center">
+                <TextView
+                    android:gravity="center"
+                    android:layout_margin="10dp"
+                    android:textSize="15sp"
+                    android:drawableLeft="@drawable/email"
+                    android:text="  Email: Nhuyk56@gmail.com"
+                    android:textColor="#fafafafa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:background="@drawable/setting_btndatmua"
+                android:layout_width="match_parent"
+                android:layout_margin="30dp"
+                android:layout_height="0dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:drawableLeft="@drawable/phone"
+                    android:gravity="center"
+                    android:text="  Điện thoại: 01672191286"
+                    android:textColor="#fafafafa"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</LinearLayout>
+
