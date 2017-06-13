@@ -8,7 +8,7 @@
 Ngày nay việc mua hàng online đã không còn xa lạ với mỗi người chúng ta, bạn có thể đã mua hàng trên Lazada, Adayroi,... .  Và `Nhuyshop` là một hình thức bán hàng như vậy, nhưng với quy mô nhỏ hơn nhiều.
  #### Ứng dụng `Nhuyshop `được xây dựng với giao diện và  chức năng:
  ##### 1. `Màng hình chính`
-![Nhuyshop](https://github.com/nhuyk56/BAITHI_JAVA/blob/master/Anh_README/trangchinh.jpg?raw=true =100x20)
+![Nhuyshop](h./Anh_README/trangchinh.jpg =100x20)
   - `Màng hình chính` được sử dụng hiệu ứng `Animation` để làm cho hình ảnh tự động lướt qua, lướt lại để tạo thêm sự sinh động cho ứng dụng
   - Màng hình chính có thể hiển thị` 6 sản phẩm` được cập nhật mới nhất từ database
   - Từ màng hình chính có thể truy cập thẳng vào màng hình giỏ hàng thông qua `Nút icon giỏ hàng` trên thanh toolbar
