@@ -64,6 +64,15 @@ public class ChiTietSanPham extends AppCompatActivity {
         buttonDatMuaChiTiet.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+//                Lưu vào mảng giở hàng trong MainActivity
+//                Kiểm tra mảng có rỗng hay ko ?
+//                Nếu không rỗng
+//                  Kiểm tra sự tồn tại của sản phẩm trong Mainactivity
+//                    Nếu tồn tại thì cộng dồn với trước đó
+//                      Nếu không thì tạo mới
+//                Nếu rỗng thì tạo mới
+
+
                 if(MainActivity.manggiohang.size() > 0){
                     int sl = Integer.parseInt(spinnerChiTiet.getSelectedItem().toString());
                     boolean exists = false;

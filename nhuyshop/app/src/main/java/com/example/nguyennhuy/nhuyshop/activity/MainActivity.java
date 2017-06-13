@@ -265,7 +265,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void ActionBar() {
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Trang chính");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setNavigationIcon(R.drawable.menu);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {

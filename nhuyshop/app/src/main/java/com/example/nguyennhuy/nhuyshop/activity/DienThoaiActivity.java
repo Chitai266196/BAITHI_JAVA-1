@@ -211,7 +211,7 @@ public class DienThoaiActivity extends AppCompatActivity {
             switch (msg.what){
                 case 0:
                     lvdt.removeFooterView(Footerview);
-                  lvdt.addFooterView(Footerview);
+                    lvdt.addFooterView(Footerview);
                     break;
                 case 1:
                     GetData(++page);

@@ -26,51 +26,57 @@
             android:textSize="30sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
+
         <LinearLayout
-            android:orientation="vertical"
-            android:weightSum="3"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="3">
+
             <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/setting_btndatmua"
-                android:layout_width="match_parent"
-                android:layout_margin="30dp"
-                android:layout_height="0dp"
                 android:gravity="center">
+
                 <TextView
-                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:layout_margin="10dp"
-                    android:textSize="15sp"
                     android:drawableLeft="@drawable/person"
+                    android:gravity="center"
                     android:text="  Họ tên : Nguyễn Như Ý"
                     android:textColor="#fafafafa"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                    android:textSize="15sp" />
             </LinearLayout>
+
             <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/setting_btndatmua"
-                android:layout_width="match_parent"
-                android:layout_margin="30dp"
-                android:layout_height="0dp"
                 android:gravity="center">
+
                 <TextView
-                    android:gravity="center"
-                    android:layout_margin="10dp"
-                    android:textSize="15sp"
-                    android:drawableLeft="@drawable/email"
-                    android:text="  Email: Nhuyk56@gmail.com"
-                    android:textColor="#fafafafa"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:drawableLeft="@drawable/email"
+                    android:gravity="center"
+                    android:text="  Email: y.nn.56cntt@ntu.edu.vn"
+                    android:textColor="#fafafafa"
+                    android:textSize="15sp" />
             </LinearLayout>
+
             <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="30dp"
                 android:layout_weight="1"
                 android:background="@drawable/setting_btndatmua"
-                android:layout_width="match_parent"
-                android:layout_margin="30dp"
-                android:layout_height="0dp"
                 android:gravity="center">
 
                 <TextView
@@ -85,7 +91,6 @@
                     android:textSize="15sp" />
             </LinearLayout>
         </LinearLayout>
-
 
 
     </LinearLayout>
